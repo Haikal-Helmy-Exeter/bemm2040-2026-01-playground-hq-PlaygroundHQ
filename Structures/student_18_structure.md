@@ -9,6 +9,7 @@ H-H-H-H
 TYPE: FRAME
 SIZE: 4x4
 COLOR: PURPLE
+
 [Describe the codes, letters, numbers]
 The code can be interpreted that there are 4 blocks laid horizontally, with 2 identical pillars of 2 blocks at its ends, set vertically downwards. 
 This is followed by another row of 4 horizontal blocks under the 2 block pillars.
