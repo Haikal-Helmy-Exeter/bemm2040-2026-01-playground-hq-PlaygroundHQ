@@ -33,3 +33,7 @@ A square frame with a hole in the middle.
 ## Questions I Have
 [What don't you know yet?]
 The depth of the frame, how many blocks deep is it supposed to be built with. 
+
+Note: Made a mistake and did not see the instructions earlier for the bottom horizontal blocks. 
+![Database Tech Workshop 1 Structure Complete Student 18](https://github.com/user-attachments/assets/ca455390-0fd7-4ff1-9b31-f84547f8a209)
+
